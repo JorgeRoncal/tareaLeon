@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ margin:0;
+	padding:0;
+}
+
+#contenedor{
+	width: 1200px;
+	height: 600px;
+	background:#666;
+	margin: 1em auto;
+	padding: 1em;
+}
+
+#encabezamiento{
+	height:10%;
+	width:30%;
+	background: #FF0;
+	border-radius:1em;
+	font-family:"Comic Sans MS", cursive;
+	}
+	
+#contenido{
+	height:80%;
+	background:#FF0;
+	margin: 1em;
+	padding: 1em;
+	border-radius:1em;
+}
+.texto{
+	height:30%;
+	background:#F00;
+	border-radius:1em;
+	margin: 1.5em;
+	padding: 1em;
+	color:#FFF;
+}
+.imagenes{
+	height:55%;
+	background:#F00;
+	border-radius:1em;
+	margin: 1.5em;
+	padding: 1em;
+}
+.imagen1{
+	width:40%;
+	height:80%;
+	margin:1em;
+	padding: 1em;
+	float:right;
+	border-radius:20%;
+	
+}
+.imagen2{
+	width:40%;
+	height:80%;
+	margin:1em;
+	padding:1em;
+	float:left;
+	border-radius:1em;
+}
+	
